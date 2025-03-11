@@ -8,7 +8,7 @@
 
 <body>
     <div align="center">
-        <img src="https://media.giphy.com/media/mtmFB01G4rvFEHAsfI/giphy.gif" alt="GIF de bienvenida">
+        <img src="https://media.giphy.com/media/mtmFB01G4rvFEHAsfI/giphy.gif](https://images.squarespace-cdn.com/content/v1/535189c9e4b06b13869d2ddb/1449998365073-UY5T27GHV53XJWYOWLFK/image-asset.gif" alt="GIF de bienvenida">
     </div>
     <div align="center">
         <p>
