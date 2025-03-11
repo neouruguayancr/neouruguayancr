@@ -48,12 +48,14 @@
     </div>
     <h3 align="center"> 📫 Conéctate conmigo:</h3>
     <p align="center">
-        <a href="https://twitter.com/TuTwitter" target="blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-        </a>
         <a href="https://www.linkedin.com/in/TuLinkedIn" target="blank">
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
         </a>
     </p>
+    <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Parply" alt="Parply" />
+    <a href="https://github.com/Parply/"><img src="https://img.shields.io/github/followers/Parply?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
+  <a href="https://github.com/Parply/"><img src="https://img.shields.io/github/last-commit/Parply/Parply?style=flat-square?color=red&label=Last%20Updated%20"/></a>
+</p>
 </body>
 </html>
