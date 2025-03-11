@@ -11,20 +11,16 @@
     <div align="center">
         <img src="https://media.giphy.com/media/mtmFB01G4rvFEHAsfI/giphy.gif" alt="GIF de bienvenida">
     </div>
-    
     <div align="center">
         <p>
             <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="OS-Linux">
             <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="OS-Windows">
         </p>
     </div>
-    
     <div align="center">
         <img src="https://komarev.com/ghpvc/?username=neouruguayancr&color=blueviolet&style=flat&label=PROFILE+VIEWS" alt="Profile views">
     </div>
-    
     <hr width="100%">
-    
     <h3>Hola 👋, soy Cristian 😎</h3>
     <ul>
         <li>💻 Apasionado por la programación y el desarrollo de software.</li>
@@ -33,7 +29,6 @@
         <li>🚀 En constante búsqueda de nuevos retos y proyectos.</li>
         <li>❤️ Gracias por visitar mi perfil, cualquier feedback es bienvenido.</li>
     </ul>
-    
     <h3>Lenguajes y herramientas:</h3>
     <p>
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
@@ -43,7 +38,6 @@
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
     </p>
-    
     <h3>Estadísticas de GitHub:</h3>
     <div align="center">
         <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=neouruguayancr&show_icons=true&theme=midnight-purple&hide_border=true" />
@@ -53,7 +47,6 @@
     <div align="center">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=neouruguayancr&color=9745f5&bg_color=000000&line=9745f5&point=ffffff&area_color=000000&hide_border=true&area=true" alt="Actividad en GitHub" />
     </div>
-    
     <h3 align="center"> 📫 Conéctate conmigo:</h3>
     <p align="center">
         <a href="https://twitter.com/TuTwitter" target="blank">
